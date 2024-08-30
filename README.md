@@ -22,7 +22,7 @@ Como Executar
 
     bash
 
-git clone https://github.com/SeuUsuario/SeuRepositorio.git
+git clone https://github.com/juniorbueno1988/Teste-para-estagio.git
 cd SeuRepositorio
 
 Instale o Node.js (se ainda não estiver instalado) para garantir que você pode executar o JavaScript fora do navegador.
